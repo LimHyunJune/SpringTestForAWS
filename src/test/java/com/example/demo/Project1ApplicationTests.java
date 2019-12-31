@@ -14,7 +14,7 @@ class Project1ApplicationTests {
 	
 
 	@Test
-	void contextLoads() {
+	void contextLoads() throws Exception {
 		
 	
 		
